@@ -30,7 +30,6 @@ Then open `http://localhost:8000` in your browser.
 ```
 /Portfolio MK/
 │── index.html            # Main portfolio page
-│── components.html       # Additional sections
 │── assets/               # Styles, scripts, and images
 ```
 
